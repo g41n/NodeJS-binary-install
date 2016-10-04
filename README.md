@@ -14,11 +14,11 @@ To install download NodeJS binaries from the [official website](https://nodejs.o
 
 ```
 $ cd NodeJS-binary-install
-$ ./nodejs_binary_install.sh install ~/Downloads/node-v4.6.0-linux-x64.tar.xz
+$ sudo ./nodejs_binary_install.sh install ~/Downloads/node-v4.6.0-linux-x64.tar.xz
 ```
 
 To remove
 
 ```
-$ ./nodejs_binary_install.sh remove
+$ sudo ./nodejs_binary_install.sh remove
 ```
